@@ -1,5 +1,4 @@
-from gtts import gTTS
-import os
+
 import random as r
 import time
 wicket=wicket_2=0
